@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Michael Petracca\\Source\\Repos\\Eye-Rest-App\\Eye-Rest\\Eye-Rest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Michael Petracca\\Source\\Repos\\Eye-Rest-App\\Eye-Rest\\Eye-Rest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Michael Petracca\\Source\\Repos\\Eye-Rest-App\\Eye-Rest\\Eye-Rest.csproj",
+        "projectName": "Eye-Rest",
+        "projectPath": "C:\\Users\\Michael Petracca\\Source\\Repos\\Eye-Rest-App\\Eye-Rest\\Eye-Rest.csproj",
+        "packagesPath": "C:\\Users\\Michael Petracca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Michael Petracca\\Source\\Repos\\Eye-Rest-App\\Eye-Rest\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Michael Petracca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
